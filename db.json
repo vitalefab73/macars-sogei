@@ -17,6 +17,16 @@
       "id": "VTLFLF73M16F205U",
       "scadenzaOtp": 30
     }
+  ],
+  "AttivazioneApp": [
+    {
+      "id": "BRLDLG72L12Z600A?otp=123456",
+      "token": "2c19b02e-093f-31be-f8c8-4d785de1145f"
+    },
+    {
+      "id": "VTLFLF73M16F205U?otp=654321",
+      "token": "6a19b02e-093f-31be-f8c8-4d785de1148a"
+    }
   ]
   
 }
