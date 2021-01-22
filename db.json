@@ -8,14 +8,15 @@
   "profile": {
     "name": "typicode"
   },
-  "GestioneIngressi": [
-    {
-      "RichiestaAttivazioneApp": "BRLDLG72L12Z600A",
-      "scadenzaOtp": 60
-    },
-    {
-      "RichiestaAttivazioneApp": "VTLFLF73M16F205U",
-      "scadenzaOtp": 30
+  "GestioneIngressi": {
+	  "RichiestaAttivazioneApp": {
+		  "BRLDLG72L12Z600A": {
+			"scadenzaOtp": 60
+		  },
+		  "VTLFLF73M16F205U": {
+			"scadenzaOtp": 30
+		  }
+	  }
     }
-  ]
+  
 }
