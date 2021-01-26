@@ -32,7 +32,7 @@
   "AttivazioneIngresso": [
     {
       "id": "2c19b02e-093f-31be-f8c8-4d785de1145f",
-      "tokenIngresso": "3d20c13f-104a-42cf-a9d9-5e896ef2256a", "scadenzaToken": 60, "datiPermesso": [{ "inizio": "24/11/2020", "fine": "24/11/2020", "referente": "Luca Capodicasa", "ubicazione": "Carucci 99, Torre E, stanza 5E08", "stato": "Valido" }]
+      "tokenIngresso": "3d20c13f-104a-42cf-a9d9-5e896ef2256a", "scadenzaToken": 60, "datiPermesso": [{ "inizio": "24/11/2020", "fine": "24/11/2020", "referente": "Luca Capodicasa", "ubicazione": "Carucci 99, Torre E, stanza 5E08", "stato": "Valido" },{ "inizio": "24/11/2020", "fine": "25/11/2020", "referente": "Luca Capodicasa", "ubicazione": "Carucci 99, Torre A, stanza 6E08", "stato": "Valido" }]
     },
     {
       "id": "6a19b02e-093f-31be-f8c8-4d785de1148a",
