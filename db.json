@@ -72,19 +72,19 @@
     },
     {
       "id": "6a19b02e-093f-31be-f8c8-4d785de1148a",
-      "tokenIngresso": "3d20c13f-104a-42cf-a9d9-5e896ef2256a", "scadenzaToken": 77, "datiPermesso": [{ "inizio": "26/11/2020", "fine": "26/11/2020", "referente": "Luca Capodicasa", "ubicazione": "Carucci 99, Torre E, stanza 5E08", "stato": "Valido" },{ "inizio": "26/11/2020", "fine": "27/11/2020", "referente": "Luca Capodicasa", "ubicazione": "Carucci 99, Torre A, stanza 6E08", "stato": "Valido" }]
+      "tokenIngresso": "4d20c13f-104a-42cf-a9d9-5e896ef2256a", "scadenzaToken": 77, "datiPermesso": [{ "inizio": "26/11/2020", "fine": "26/11/2020", "referente": "Luca Capodicasa", "ubicazione": "Carucci 99, Torre E, stanza 5E08", "stato": "Valido" },{ "inizio": "26/11/2020", "fine": "27/11/2020", "referente": "Luca Capodicasa", "ubicazione": "Carucci 99, Torre A, stanza 6E08", "stato": "Valido" }]
     },
     {
       "id": "7a19b02e-093f-31be-f8c8-4d785de1148a",
-      "tokenIngresso": "4d20c13f-104a-42cf-a9d9-5e896ef2256a", "scadenzaToken": 44, "datiPermesso": [{ "inizio": "27/11/2020", "fine": "27/11/2020", "referente": "Luca Capodicasa", "ubicazione": "Carucci 99, Torre E, stanza 5E08", "stato": "Valido" },{ "inizio": "27/11/2020", "fine": "28/11/2020", "referente": "Luca Capodicasa", "ubicazione": "Carucci 99, Torre A, stanza 6E08", "stato": "Valido" }]
+      "tokenIngresso": "5d20c13f-104a-42cf-a9d9-5e896ef2256a", "scadenzaToken": 44, "datiPermesso": [{ "inizio": "27/11/2020", "fine": "27/11/2020", "referente": "Luca Capodicasa", "ubicazione": "Carucci 99, Torre E, stanza 5E08", "stato": "Valido" },{ "inizio": "27/11/2020", "fine": "28/11/2020", "referente": "Luca Capodicasa", "ubicazione": "Carucci 99, Torre A, stanza 6E08", "stato": "Valido" }]
     },
     {
       "id": "8a19b02e-093f-31be-f8c8-4d785de1148a",
-      "tokenIngresso": "5d20c13f-104a-42cf-a9d9-5e896ef2256a", "scadenzaToken": 55, "datiPermesso": [{ "inizio": "28/11/2020", "fine": "28/11/2020", "referente": "Luca Capodicasa", "ubicazione": "Carucci 99, Torre E, stanza 5E08", "stato": "Valido" },{ "inizio": "28/11/2020", "fine": "29/11/2020", "referente": "Luca Capodicasa", "ubicazione": "Carucci 99, Torre A, stanza 6E08", "stato": "Valido" }]
+      "tokenIngresso": "6d20c13f-104a-42cf-a9d9-5e896ef2256a", "scadenzaToken": 55, "datiPermesso": [{ "inizio": "28/11/2020", "fine": "28/11/2020", "referente": "Luca Capodicasa", "ubicazione": "Carucci 99, Torre E, stanza 5E08", "stato": "Valido" },{ "inizio": "28/11/2020", "fine": "29/11/2020", "referente": "Luca Capodicasa", "ubicazione": "Carucci 99, Torre A, stanza 6E08", "stato": "Valido" }]
     },
     {
       "id": "9a19b02e-093f-31be-f8c8-4d785de1148a",
-      "tokenIngresso": "6d20c13f-104a-42cf-a9d9-5e896ef2256a", "scadenzaToken": 66, "datiPermesso": [{ "inizio": "29/11/2020", "fine": "29/11/2020", "referente": "Luca Capodicasa", "ubicazione": "Carucci 99, Torre E, stanza 5E08", "stato": "Valido" },{ "inizio": "29/11/2020", "fine": "30/11/2020", "referente": "Luca Capodicasa", "ubicazione": "Carucci 99, Torre A, stanza 6E08", "stato": "Valido" }]
+      "tokenIngresso": "7d20c13f-104a-42cf-a9d9-5e896ef2256a", "scadenzaToken": 66, "datiPermesso": [{ "inizio": "29/11/2020", "fine": "29/11/2020", "referente": "Luca Capodicasa", "ubicazione": "Carucci 99, Torre E, stanza 5E08", "stato": "Valido" },{ "inizio": "29/11/2020", "fine": "30/11/2020", "referente": "Luca Capodicasa", "ubicazione": "Carucci 99, Torre A, stanza 6E08", "stato": "Valido" }]
     }
   ]
 
